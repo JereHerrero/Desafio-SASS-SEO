@@ -1,0 +1,25 @@
+.bg_nav-oscuro {
+	background-color: #323232;
+}
+.nav-link {
+	text-align: center;
+	font-family: 'Poppins', sans-serif;
+	font-size: 1.1rem;
+	font-weight: normal;
+}
+.navbar-dark {
+	.navbar-nav {
+		.nav-link {
+			color: white;
+			&:hover {
+				color: #D6BD9A;
+			}
+		}
+	}
+}
+.navbar-toggler {
+	background-color: black;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	margin-right: 0.3rem;
+}
