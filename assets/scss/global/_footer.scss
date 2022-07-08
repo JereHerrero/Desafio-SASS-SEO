@@ -1,5 +1,5 @@
 footer {
-	background-color: #323232;
+	background-color: $carbon;
 	display: grid;
 	grid-template-rows: 1fr;
 	grid-template-columns: 1fr 1fr;
@@ -7,18 +7,20 @@ footer {
 		margin: 1.5rem;
 	}
 }
+
 .footer_logo {
 	margin-top: 2rem;
 	height: 100px;
 	width: auto;
 }
+
 .footer_redes {
 	margin: 2rem 1.5rem;
 	width: 16rem;
 	justify-self: end;
 	p {
-		color: white;
-		font-family: 'Poppins', sans-serif;
+		color: $blanco;
+		font-family: $parrafo;
 		font-weight: 500;
 		font-size: 1rem;
 		text-align: center;
