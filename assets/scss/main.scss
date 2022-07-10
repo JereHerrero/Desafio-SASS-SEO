@@ -1,8 +1,11 @@
 // MISC 
 @import 'misc/normalize.scss';
+@import 'misc/maps.scss';
 @import 'misc/variables.scss';
+@import 'misc/mixins.scss';
+@import 'misc/buttons.scss';
 
-//GLOBAL
+// GLOBAL
 @import 'global/global.scss';
 @import 'global/header.scss';
 @import 'global/footer.scss';
@@ -14,5 +17,5 @@
 @import 'views/nosotros.scss';
 @import 'views/contacto.scss';
 
-// MEDIA QUERIES
+// MEDIAQUERIES
 @import 'mediaqueries.scss';
