@@ -12,7 +12,10 @@ a {
 
 h1 {
 	-webkit-text-stroke: 1px $negro;
+	font-family: $titulos;
+	font-weight: 600;
 	color: $blanco;
+	font-size: 1.8rem;
 }
 
 h2 {
