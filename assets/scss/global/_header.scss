@@ -1,5 +1,5 @@
 .bg_nav-oscuro {
-	background-color: $carbon;
+	background-color: map-get($colors, carbon);
 }
 
 .nav-link {
@@ -12,16 +12,16 @@
 .navbar-dark {
 	.navbar-nav {
 		.nav-link {
-			color: $blanco;
+			color: map-get($colors, blanco);
 			&:hover {
-				color: $desert-hover;
+				color: map-get($colors, desert-hover);
 			}
 		}
 	}
 }
 
 .navbar-toggler {
-	background-color: $negro;
+	background-color: map-get($colors, negro);
 	margin-top: 1rem;
 	margin-bottom: 1rem;
 	margin-right: 0.3rem;

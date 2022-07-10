@@ -1,5 +1,5 @@
 footer {
-	background-color: $carbon;
+	background-color: map-get($colors, carbon);
 	display: grid;
 	grid-template-rows: 1fr;
 	grid-template-columns: 1fr 1fr;
@@ -19,7 +19,7 @@ footer {
 	width: 16rem;
 	justify-self: end;
 	p {
-		color: $blanco;
+		color: map-get($colors, blanco);
 		font-family: $parrafo;
 		font-weight: 500;
 		font-size: 1rem;

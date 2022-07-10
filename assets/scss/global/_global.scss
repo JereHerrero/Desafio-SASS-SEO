@@ -3,7 +3,7 @@ body {
 }
 
 a {
-	color: $blanco;
+	color: map-get($colors, blanco);
 	font-family: $titulos;
 	text-decoration: none;
 	font-weight: 400;
@@ -11,9 +11,8 @@ a {
 }
 
 h1 {
-	-webkit-text-stroke: 1px $negro;
+	-webkit-text-stroke: 1px map-get($colors, negro);
 	font-family: $titulos;
-	font-weight: 600;
 	color: $blanco;
 	font-size: 1.8rem;
 }
