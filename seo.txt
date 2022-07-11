@@ -1,0 +1,14 @@
+Aplicado en los 5 HTML.
+
+• Añadi Etiquetas SEO.
+• Añadi ALT en el logo de NAVBAR.
+
+HTML Index
+
+• Añadi algunos ALT en LOGO, Imagen de Nosotros.
+• Añadi TITLE en Las Habitaciones, Paquetes de Habitaciones, Boton de Instagram,facebook y instagram del Footer.
+
+HTML Bar&Rest
+
+• Añadi ALT en la Imagen del Restaurante La Pergola.
+• Añadi ALT en la Imagen del Maximilian Lounge Bar.
